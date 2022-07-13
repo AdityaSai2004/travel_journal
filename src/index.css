@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins&display=swap");
+
+* {
+  margin: 0;
+}
+.header {
+  background-color: #f55a5a;
+  text-align: center;
+  color: white;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+}
+
+.icon {
+  padding: 0.5em;
+  line-height: 1.22;
+  float: center;
+  vertical-align: middle;
+}
+
+.title {
+  display: inline-block;
+  vertical-align: middle;
+}
