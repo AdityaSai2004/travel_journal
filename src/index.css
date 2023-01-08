@@ -26,3 +26,59 @@
   display: inline-block;
   vertical-align: middle;
 }
+
+.Pic {
+  height: 500px;
+  width: 700px;
+  border-radius: 10%;
+  text-align: center;
+  padding: 15px;
+}
+
+.location {
+  color: #2b283a;
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 22px;
+  letter-spacing: 0.17em;
+}
+
+a {
+  color: #918e9b;
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 22px;
+}
+.pic-details {
+  color: #2b283a;
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 30px;
+  font-weight: bolder;
+}
+
+.when {
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 22px;
+
+  color: #2b283a;
+}
+.class-body {
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 150%;
+  color: #2b283a;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.pic-div {
+  width: 50%;
+  height: 100vh;
+}
+.others {
+  width: 50%;
+  height: 100vh;
+}
